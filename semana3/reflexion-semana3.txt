@@ -1,0 +1,2 @@
+Pregunta 9: ¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
+Respuesta: Dado que si se implementa una actualización que tenga algún problema ya sea malware o técnico de implementación se pueda volver a la versión antes de esta y solucionar el problema antes de que afecte el producto final o la app.

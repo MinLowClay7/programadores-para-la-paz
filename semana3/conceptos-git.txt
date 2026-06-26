@@ -1,0 +1,9 @@
+Pregunta 7: escribe una explicación corta de los siguientes conceptos Repositorio, Commit y Push.
+
+Respuesta:
+
+Repositorio: Es un lugar en el servidor, espacio o archivo centralizado donde se registran y guardan cambios realizados del código siendo capaz de cada personas que trabaje en el, pueda tener una copia del archivo e trabajar independientemente sin problemas.
+
+Commit: Es un guardado del código o cambios en un punto especifico, en este caso, antes de revisarse o hacer algún cambio a la carpeta o archivos del código/app.
+
+Push: Es un comando que envía información a un servidor sobre el cambio en el código o nuevos archivos desde la maquina o dispositivo local al repositorio en la red.
