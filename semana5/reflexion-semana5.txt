@@ -1,0 +1,2 @@
+Pregunta 9: ¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+Respuesta: Pues al detectar si realmente llegan las peticiones que se hacen, ahora si es una aplicación comunitaria es para primero no ser dedundante, segundo para saber que dato le estamos enviando y cual esta recibiendo e por ultimo para evitar bug o problemas a la hora de para a producción.

@@ -1,0 +1,1 @@
+Es un endpoint que recibe reportes del cliente, los procesa y devuelve una confirmación, y ayuda detectar cuando una petición llega o no al servidor o si hay un bug.

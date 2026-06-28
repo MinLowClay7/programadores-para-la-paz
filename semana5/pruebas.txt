@@ -1,0 +1,4 @@
+Al cargar:
+- http://localhost:3000 salió un texto que afirma y demuestra que el servidor esta activo.
+- http://localhost:3000/saludo salió un texto que decía hola comunidad.
+- http://localhost:3000/mensaje/juan salió un texto que dice hola juan.
