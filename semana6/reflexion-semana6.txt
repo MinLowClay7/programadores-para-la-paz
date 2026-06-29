@@ -1,0 +1,2 @@
+Pregunta 9: ¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
+Respuesta: Primeramente para asegurar que se pueda entender el problema, otro es que las personas pueden encontrar bugs que si se informa, se solucionan e esto ayuda y contribuye a la mejora de experiencia del usuario.

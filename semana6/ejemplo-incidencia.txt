@@ -1,0 +1,4 @@
+{
+  "tipo": "Servicio de Agua pública",
+  "descripcion": "La comunidad reporta que desde hace varias semanas no ha llegado suministro de agua a las casas."
+}

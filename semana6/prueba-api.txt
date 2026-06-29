@@ -1,0 +1,1 @@
+al enviar los datos, confirmo que el archivo llego al servidor, mostro el nombre de la remitente y el mensaje que envió.
