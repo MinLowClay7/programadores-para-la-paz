@@ -1,0 +1,7 @@
+- Validar y filtrar los datos de entrada para prevenir ataques como la inyección de código o el ingreso de información maliciosa.
+- Capacitar a los usuarios y administradores sobre buenas prácticas de seguridad, como reconocer intentos de phishing y crear contraseñas seguras.
+- Implementar un plan de respuesta a incidentes que establezca los pasos a seguir ante un ataque o una falla de seguridad.
+- Cifrar la información sensible tanto cuando se almacena como cuando se transmite.
+- Realizar auditorías de seguridad periódicas para identificar vulnerabilidades y corregirlas antes de que sean explotadas.
+- Aplicar el principio de mínimo privilegio, otorgando a cada usuario únicamente los permisos indispensables para realizar sus tareas.
+- Monitorear el sistema en tiempo real para detectar actividades anómalas o posibles intentos de intrusión de manera temprana.

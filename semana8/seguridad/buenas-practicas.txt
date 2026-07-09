@@ -1,0 +1,3 @@
+- Realizar copias de seguridad periódicas.
+- Usar autenticación de dos factores (2FA).
+- Controlar los permisos de acceso.
