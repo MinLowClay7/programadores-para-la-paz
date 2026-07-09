@@ -1,0 +1,2 @@
+Pregunta 9: ¿Por qué es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica?
+Respuesta: Para en caso de que haya errores en la comunidad o en la plataforma, se pueda hacer un proceso eficaz y ágil, aparte de llevar un seguimiento de la petición en caso de que el proceso tarde o que normalmente los procesos tardan de 15 a 30 días en ser contestados dependiendo del trafico de las peticiones.

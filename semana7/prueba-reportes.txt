@@ -1,0 +1,2 @@
+Los datos que el usuario necesitaba y mando una señal para saber si el server los tenia, fueron enviados al usuario 
+El usuario le pregunto al server si estaban los datos que necesitaba, en este caso son los reclamos o reportes de daños en un sector, si estos datos estaban y existían en el server este se los manda, lo que podemos ver en la respuesta que nos da, que es el tipo de naturaleza del daño y cual es, aparte nos da cuantos reportes hay.
