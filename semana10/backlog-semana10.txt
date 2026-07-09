@@ -1,0 +1,5 @@
+1. Como ciudadano quiero reportar un problema en mi comunidad para que las autoridades puedan atenderlo oportunamente.
+2. Como coordinador quiero recibir una notificación cuando se registre un nuevo reporte para darle seguimiento lo antes posible.
+3. Como miembro del equipo quiero consultar el historial de reportes para conocer el estado de cada caso.
+4. Como administrador quiero gestionar los usuarios de la plataforma para controlar quién puede acceder a cada función.
+5. Como ciudadano quiero recibir una notificación cuando mi reporte sea actualizado para conocer el avance de la solución.

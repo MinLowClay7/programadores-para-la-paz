@@ -1,0 +1,8 @@
+Las dos tareas del backlog que realizaría primero serían implementar el inicio de sesión de usuarios y corregir los errores críticos del sistema, ya que ambas son fundamentales para garantizar que la plataforma sea segura y funcione correctamente antes de agregar nuevas funcionalidades.
+Considero que una tarea está "terminada" cuando cumple con todos los requisitos definidos, funciona sin errores y ha sido revisada para confirmar que ofrece el resultado esperado.
+
+Ejemplos:
+
+1. La funcionalidad fue implementada según los requisitos establecidos.
+2. Se realizaron pruebas y no se encontraron errores importantes.
+3. El código quedó organizado y la tarea fue revisada y aprobada.

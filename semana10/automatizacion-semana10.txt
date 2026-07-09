@@ -1,0 +1,7 @@
+Evento: Se registra una nueva solicitud de apoyo en la plataforma comunitaria.
+
+Acción: n8n detecta el nuevo registro y envía automáticamente una notificación a un grupo de Telegram.
+
+Mensaje: "Se ha recibido una nueva solicitud de apoyo. Ingresa al sistema para revisar los detalles y darle seguimiento."
+
+Información que no debe enviarse por seguridad: No se deben incluir nombres completos, números de identificación, direcciones, teléfonos, contraseñas, correos electrónicos ni ningún otro dato personal o confidencial de los usuarios.
