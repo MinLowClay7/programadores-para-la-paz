@@ -1,0 +1,5 @@
+Evento: Cuando un ciudadano registra una nueva causa en la plataforma.
+
+Mensaje: "Se ha creado una nueva causa en la plataforma. Ingresa para conocer los detalles y, si estás de acuerdo, puedes brindar tu apoyo."
+
+Información que no debe enviarse por seguridad: No se deben enviar datos personales como números de identificación, teléfonos, direcciones, correos electrónicos, contraseñas, ni información sensible de los usuarios, solo debe compartirse la información necesaria para informar sobre la nueva causa.
